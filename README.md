@@ -1,6 +1,6 @@
 # NAND
-## REG NUM :
-## STUDENT NAME :
+## REG NUM :25019176
+## STUDENT NAME :ARUN M
 ## EXPERIMENT 1 a - DESIGN AND VERIFY THE NAND GATE USING TRANSIENT AND OP ANALYSIS 
 
 ## Aim:
@@ -67,6 +67,7 @@ Net list and Run in the simulation window to start the Simulation.
 When simulation finishes, the transient automatically will be popped up along file. 
 
 ## WAVEFORM:
+![WhatsApp Image 2025-12-19 at 8 53 46 AM](https://github.com/user-attachments/assets/db368841-404d-4aba-9e82-f672b0acbbdc)
 
 ## RESULT :
 CMOS NAND gate designed and verified using transient and OP analysis.
